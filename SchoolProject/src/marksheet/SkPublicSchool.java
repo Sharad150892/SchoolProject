@@ -27,6 +27,12 @@ int Phy;	int Chem;	int Math;	String stu;
 		new SkPublicSchool(45,40,61,"Shyam");
 		System.out.println("<------------------------------>");	
 		new SkPublicSchool(39,78,90,"Sahu");
+		System.out.println("<------------------------------>");	
+		new SkPublicSchool(67,75,56,"Raju");
+		System.out.println("<------------------------------>");	
+		new SkPublicSchool(61,95,53,"Baburao");
+		System.out.println("<------------------------------>");	
+		new SkPublicSchool(60,85,83,"Rinku");
 	}
 
 }
